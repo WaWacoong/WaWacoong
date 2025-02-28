@@ -5,10 +5,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Montiwa Boonkum
 =======================================================================================================================================
 
-FRONTEND
+FRONTEND DEVELOPER
 --------
 
-I'm a senior in the Faculty of Technical Education at King Mongkut's University of Technology North Bangkok, and I'm interested in a job as a frontend developer. Right now I develop any skill about frontend, no matter HTML, CSS, JavaScript, or all kinds of frameworks.
+I'm a senior in the Faculty of Technical Education at King Mongkut's University of Technology North Bangkok, and I'm interested in a job as a frontend developer. Right now I develop any skill about frontend develper, no matter HTML, CSS, JavaScript, or all kinds of frameworks.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [montiwa.bo@gmail.com](mailto:montiwa.bo@gmail.com)
